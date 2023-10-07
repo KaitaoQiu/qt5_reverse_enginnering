@@ -1,0 +1,8 @@
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/tsignal.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/edit_cache.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/rebuild_cache.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/list_install_components.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/install.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/install/local.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/install/strip.dir
+/home/qiu/code/qt5_reverse_engineering/tsignal/build/CMakeFiles/tsignal_autogen.dir
